@@ -1,0 +1,41 @@
+#root{
+  border: 0.1px solid lightgrey;
+  height: auto;
+  width: 61vw;
+  font-family: sans-serif;
+
+}
+
+.row{
+    border-bottom: 0.1px solid lightgrey;
+    display: flex;
+    align-items: center;
+    height: 30px;
+    width: auto;
+    font-size: 20px;
+}
+
+.folder-icon{
+  margin-left:5px;
+ 
+}
+
+.file-name{
+  margin-left:5px;
+  color: cornflowerblue;
+  width: 7vw;
+
+}
+
+.file-description{
+  margin-left: 70px;
+  width: 43vw;
+  color: gray;
+
+}
+
+.time{
+  margin-left: 100px;
+  color: gray;
+  width: 8vw;
+}
